@@ -1,7 +1,7 @@
 # 📡 DREAM PLAYS NETWORKS // SYSTEM CORE ARCHITECTURE
 
 <div align="center">
-  <img src="[https://ayartstudio-official.github.io/logo.jpg](https://ayartstudio-official.github.io/logo.jpg)" alt="Dream Plays Corporate Logo" width="450" style="border-radius: 16px; border: 2px solid rgba(79, 172, 254, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.7);"/>
+  <img src="https://ayartstudio-official.github.io/logo.jpg" alt="Dream Plays Corporate Logo" width="450" style="border-radius: 16px; border: 2px solid rgba(79, 172, 254, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.7);"/>
 </div>
 
 ---
