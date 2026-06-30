@@ -1,7 +1,7 @@
 # 📡 DREAM PLAYS NETWORKS // SYSTEM CORE ARCHITECTURE
 
 <div align="center">
-  <img src="https://ayartstudio-official.github.io/logo.jpg" alt="Dream Plays Corporate Logo" width="450" style="border-radius: 16px; border: 2px solid rgba(79, 172, 254, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.7);"/>
+  <img src="https://dreamplays-official.github.io//logo.jpg" alt="Dream Plays Corporate Logo" width="450" style="border-radius: 16px; border: 2px solid rgba(79, 172, 254, 0.3); box-shadow: 0 10px 30px rgba(0,0,0,0.7);"/>
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 | Node Allocation Registry | Operational Framework | System Architecture |
 | :--- | :--- | :--- |
-| 🌐 **Main Global Link** | `ayartstudio-official.github.io` | **Production Active** |
+| 🌐 **Main Global Link** | `https://dreamplay-official.github.io/` | **Production Active** |
 | 🔒 **Security Layer** | `AES-256 SSL Encryption` | **Verified Shield** |
 | 📈 **Data Analytics** | `Google Crawlers Mapping` | **Real-time Sync** |
 | 💳 **Monetization Grid**| `AdSense Network Vertex` | **Review Pending** |
